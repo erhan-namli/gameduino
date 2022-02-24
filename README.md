@@ -1,7 +1,7 @@
 
 # Gameduino
 
-This is a project that we have done to help other peoples who want to make a similar project.
+This is a project that I have done to help other peoples who want to make a similar project.
 
 
 ## Roadmap
